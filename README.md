@@ -1,2 +1,2 @@
 # genetic_algorithm
-a simple genetic algorithm with 2 decision variables and real coded gens
+A simple real coded genetic algorithm with 2 decision variables.
